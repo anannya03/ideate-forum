@@ -1,4 +1,4 @@
-# Ideate
+# IdeateForum
 
 > A simple web app where users can look for inspirational ideas among different categories and also put forth their unique content. Hosted in AWS.
 
