@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ideateapp.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['ideateapp.herokuapp.com', 'localhost', '13.49.238.225']
 
 
 # Application definition
